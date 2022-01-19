@@ -154,10 +154,10 @@ module.exports = configure(function (ctx) {
       },
 
       manifest: {
-        name: 'CTFNote',
-        short_name: 'CTFNote',
+        name: 'CTF',
+        short_name: 'CTF',
         description:
-          'CTFNote is a collaborative tool aiming to help CTF teams to organise their work.',
+          'CTF is a collaborative tool aiming to help CTF teams to organise their work.',
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',

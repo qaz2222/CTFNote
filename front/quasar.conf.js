@@ -154,10 +154,10 @@ module.exports = configure(function (ctx) {
       },
 
       manifest: {
-        name: 'CTF',
-        short_name: 'CTF',
+        name: 'CTF1122',
+        short_name: 'CTF1122',
         description:
-          'CTF is a collaborative tool aiming to help CTF teams to organise their work.',
+          'CTF1122 is a collaborative tool aiming to help CTF teams to organise their work.',
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
